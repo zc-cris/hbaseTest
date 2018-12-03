@@ -1,0 +1,38 @@
+Manifest-Version: 1.0
+Class-Path: jsp-api-2.1-6.1.14.jar jaxb-impl-2.2.3-1.jar jettison-1.1.
+ jar aopalliance-1.0.jar hadoop-mapreduce-client-app-2.5.1.jar jersey-
+ core-1.9.jar commons-configuration-1.6.jar jsp-2.1-6.1.14.jar junit-4
+ .12.jar api-asn1-api-1.0.0-M20.jar java-xmlbuilder-0.4.jar hbase-serv
+ er-1.3.1.jar paranamer-2.3.jar jetty-util-6.1.26.jar hadoop-mapreduce
+ -client-jobclient-2.5.1.jar hadoop-yarn-api-2.5.1.jar commons-math-2.
+ 2.jar hbase-procedure-1.3.1.jar htrace-core-3.1.0-incubating.jar leve
+ ldbjni-all-1.8.jar log4j-1.2.17.jar zookeeper-3.4.6.jar jackson-mappe
+ r-asl-1.9.13.jar servlet-api-2.5.jar jersey-guice-1.9.jar xmlenc-0.52
+ .jar hadoop-hdfs-2.5.1.jar commons-el-1.0.jar hamcrest-core-1.3.jar c
+ ommons-logging-1.2.jar hbase-annotations-1.3.1.jar apacheds-kerberos-
+ codec-2.0.0-M15.jar asm-3.1.jar commons-compress-1.4.1.jar hadoop-map
+ reduce-client-shuffle-2.5.1.jar hadoop-mapreduce-client-common-2.5.1.
+ jar protobuf-java-2.5.0.jar commons-codec-1.9.jar servlet-api-2.5-6.1
+ .14.jar findbugs-annotations-1.3.9-1.jar hadoop-yarn-server-common-2.
+ 5.1.jar commons-collections-3.2.2.jar hbase-common-1.3.1-tests.jar ja
+ xb-api-2.2.2.jar hadoop-client-2.5.1.jar jersey-server-1.9.jar jackso
+ n-jaxrs-1.9.13.jar commons-net-3.1.jar hadoop-yarn-client-2.5.1.jar j
+ etty-sslengine-6.1.26.jar jasper-compiler-5.5.23.jar hadoop-annotatio
+ ns-2.5.1.jar jsch-0.1.42.jar api-util-1.0.0-M20.jar commons-math3-3.1
+ .1.jar stax-api-1.0-2.jar commons-digester-1.8.jar disruptor-3.3.0.ja
+ r jetty-6.1.26.jar guice-servlet-3.0.jar hadoop-common-2.5.1.jar hado
+ op-yarn-common-2.5.1.jar commons-beanutils-1.7.0.jar jersey-json-1.9.
+ jar apacheds-i18n-2.0.0-M15.jar commons-beanutils-core-1.8.0.jar comm
+ ons-daemon-1.0.13.jar jasper-runtime-5.5.23.jar avro-1.7.4.jar javax.
+ inject-1.jar jackson-xc-1.8.3.jar hbase-hadoop-compat-1.3.1.jar commo
+ ns-io-2.4.jar hadoop-auth-2.5.1.jar snappy-java-1.0.4.1.jar commons-l
+ ang-2.6.jar hbase-protocol-1.3.1.jar slf4j-api-1.7.2.jar jamon-runtim
+ e-2.4.1.jar joni-2.1.2.jar netty-all-4.0.23.Final.jar hbase-prefix-tr
+ ee-1.3.1.jar slf4j-log4j12-1.6.1.jar jackson-core-asl-1.9.13.jar xz-1
+ .0.jar metrics-core-2.2.0.jar hbase-common-1.3.1.jar httpcore-4.1.2.j
+ ar jersey-client-1.9.jar jets3t-0.9.0.jar commons-httpclient-3.1.jar 
+ commons-cli-1.2.jar guava-12.0.1.jar hadoop-mapreduce-client-core-2.5
+ .1.jar hbase-client-1.3.1.jar httpclient-4.2.5.jar hbase-hadoop2-comp
+ at-1.3.1.jar activation-1.1.jar jcodings-1.0.8.jar guice-3.0.jar
+Main-Class: com.cris.mr2.Main
+

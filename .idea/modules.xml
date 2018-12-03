@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hbaseAPI/hbaseAPI.iml" filepath="$PROJECT_DIR$/hbaseAPI/hbaseAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbaseMR/hbaseMR.iml" filepath="$PROJECT_DIR$/hbaseMR/hbaseMR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbaseMR2/hbaseMR2.iml" filepath="$PROJECT_DIR$/hbaseMR2/hbaseMR2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testParent/testParent.iml" filepath="$PROJECT_DIR$/testParent/testParent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weibo/weibo.iml" filepath="$PROJECT_DIR$/weibo/weibo.iml" />
+    </modules>
+  </component>
+</project>

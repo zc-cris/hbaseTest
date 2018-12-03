@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/testParent/pom.xml" />
+        <option value="$PROJECT_DIR$/hbaseAPI/pom.xml" />
+        <option value="$PROJECT_DIR$/hbaseMR/pom.xml" />
+        <option value="$PROJECT_DIR$/hbaseMR2/pom.xml" />
+        <option value="$PROJECT_DIR$/weibo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
